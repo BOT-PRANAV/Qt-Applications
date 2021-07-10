@@ -2,6 +2,7 @@
 int main(){
 	int n,s=0,temp,c=0,r;
 	std::cout<<"Enter an integer"<<std::endl;
+	std::cout<<"Okay"<<std::endl;
 	std::cin>>n;
 	temp=n;
 	while(n!=0){

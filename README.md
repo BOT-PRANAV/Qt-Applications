@@ -1,2 +1,2 @@
-# Qt-Applications
+# Qt-Application
 test

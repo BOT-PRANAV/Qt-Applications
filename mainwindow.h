@@ -2,6 +2,7 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include <QtMath>
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
